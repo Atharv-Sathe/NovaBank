@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NovaBank/static/css/main.857b7d06.css",
+    "main.js": "/NovaBank/static/js/main.bddadf8e.js",
+    "index.html": "/NovaBank/index.html",
+    "main.857b7d06.css.map": "/NovaBank/static/css/main.857b7d06.css.map",
+    "main.bddadf8e.js.map": "/NovaBank/static/js/main.bddadf8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.857b7d06.css",
+    "static/js/main.bddadf8e.js"
+  ]
+}
