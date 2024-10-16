@@ -1,9 +1,14 @@
 import "./App.css";
+import Header from "./components/header/Header";
+import Hero from "./components/hero/Hero";
 
 function App() {
-  return <div className="App text-green-500 text-2xl ml-4 mt-4">
-    Hello, this is an updated placeholder, to chekc if github actions are working properly or not.
-  </div>;
+  return (
+    <div className="bg-bgCol h-full w-full">
+      <Header />
+      <Hero />
+    </div>
+  )
 }
 
 export default App;
