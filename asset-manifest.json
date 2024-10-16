@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/https//Atharv-Sathe.github.io/NovaBlank/static/css/main.31d6cfe0.css",
+    "main.js": "/https//Atharv-Sathe.github.io/NovaBlank/static/js/main.b9de08de.js",
+    "index.html": "/https//Atharv-Sathe.github.io/NovaBlank/index.html",
+    "main.b9de08de.js.map": "/https//Atharv-Sathe.github.io/NovaBlank/static/js/main.b9de08de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.b9de08de.js"
+  ]
+}
