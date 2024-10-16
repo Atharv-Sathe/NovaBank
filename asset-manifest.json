@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/https//Atharv-Sathe.github.io/NovaBank/static/css/main.31d6cfe0.css",
-    "main.js": "/https//Atharv-Sathe.github.io/NovaBank/static/js/main.b9de08de.js",
-    "index.html": "/https//Atharv-Sathe.github.io/NovaBank/index.html",
-    "main.b9de08de.js.map": "/https//Atharv-Sathe.github.io/NovaBank/static/js/main.b9de08de.js.map"
+    "main.css": "/NovaBank/static/css/main.31d6cfe0.css",
+    "main.js": "/NovaBank/static/js/main.b9de08de.js",
+    "index.html": "/NovaBank/index.html",
+    "main.b9de08de.js.map": "/NovaBank/static/js/main.b9de08de.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
