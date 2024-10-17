@@ -24,7 +24,7 @@ function CreditCard() {
 
 function Aside() {
     return (
-        <aside className="w-[23%] h-full flex-shrink-0 flex-grow-0 flex flex-col gap-2 bg-bgCol">
+        <aside className="w-[23%] flex-shrink-0 flex-grow-0 flex flex-col gap-2 bg-bgCol">
             <CreditCard />
             <InstantCard />
         </aside>

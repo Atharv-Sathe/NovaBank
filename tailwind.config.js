@@ -7,6 +7,7 @@ module.exports = {
         primary: 'var(--color-text)',
         secondary: 'var(--color-sec)',
         bgCol: 'var(--color-bg)',
+        bgColSec: 'var(--color-bg-sec)',
       }
     },
   },

@@ -1,5 +1,6 @@
 :root {
-    --color-sec: #ff6600; /* Orange */
+    --color-sec: #fc5a40; /* Orange */
     --color-text: #000000; /* Black */
-    --color-bg: #f6f6f6; /* White */
+    --color-bg: #f6f6f6; /* White Dark */
+    --color-bg-sec: #ffffff; /* White Light */
 }
