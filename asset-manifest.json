@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/NovaBank/static/css/main.308f4d46.css",
-    "main.js": "/NovaBank/static/js/main.5c59ed34.js",
+    "main.css": "/NovaBank/static/css/main.d2f03ea9.css",
+    "main.js": "/NovaBank/static/js/main.14e72fd4.js",
     "static/media/creditCard.webp": "/NovaBank/static/media/creditCard.d596632c75668d2d8cdb.webp",
+    "static/media/FingerBoy.webp": "/NovaBank/static/media/FingerBoy.4ce41270568176210d34.webp",
     "index.html": "/NovaBank/index.html",
-    "main.308f4d46.css.map": "/NovaBank/static/css/main.308f4d46.css.map",
-    "main.5c59ed34.js.map": "/NovaBank/static/js/main.5c59ed34.js.map"
+    "main.d2f03ea9.css.map": "/NovaBank/static/css/main.d2f03ea9.css.map",
+    "main.14e72fd4.js.map": "/NovaBank/static/js/main.14e72fd4.js.map"
   },
   "entrypoints": [
-    "static/css/main.308f4d46.css",
-    "static/js/main.5c59ed34.js"
+    "static/css/main.d2f03ea9.css",
+    "static/js/main.14e72fd4.js"
   ]
 }
