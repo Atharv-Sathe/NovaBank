@@ -10,7 +10,7 @@ const categories = [
 
 function Dropdowns() {
     return (
-        <ul className="flex flex-row gap-8">
+        <ul className="flex flex-row gap-8 lg:hidden">
             {categories.map((category, index) => 
                 <li key={index}><Dropdown text={category} /></li>
             )}

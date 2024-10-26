@@ -4,3 +4,10 @@
     --color-bg: #f6f6f6; /* White Dark */
     --color-bg-sec: #ffffff; /* White Light */
 }
+
+[data-theme="dark"] {
+    --color-sec: #ff6347; /* Tomato */
+    --color-text: #ffffff; /* White */
+    --color-bg: #333333; /* Dark Gray */
+    --color-bg-sec: #444444; /* Darker Gray */
+}

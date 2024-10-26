@@ -2,7 +2,7 @@ import SVGArrow from "../SVGArrow";
 
 function Heading({text}) {
     return (
-        <div className="relative">
+        <div className="relative text-primary">
             <hr className="border border-gray-300"></hr>
             <h1 className="mt-3 font-semibold text-lg">{text}</h1>
             <div className="absolute right-0 top-4"><SVGArrow fill="var(--color-text)" rotate="90" /></div>
@@ -18,7 +18,7 @@ function Benefits() {
                 <div className="relative">
                     <h1 className="text-secondary text-lg">Access your card at any time</h1>
                     <div className="absolute right-0 top-2"><SVGArrow fill="var(--color-sec)"/></div>
-                    <p className="mt-6 w-[27em] font-light">Every Nova checking account comes with a free physical debit card
+                    <p className="mt-6 w-[27em] font-light text-primary md:w-full">Every Nova checking account comes with a free physical debit card
                         and virtual debit card, so you always have access at your
                         fingertips.</p>
                 </div>
