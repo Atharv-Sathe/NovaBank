@@ -11,3 +11,18 @@
     --color-bg: #333333; /* Dark Gray */
     --color-bg-sec: #444444; /* Darker Gray */
 }
+
+
+[data-theme="grassGreen"] {
+    --color-sec: #3f9b0b; /* Tomato */
+    --color-text: #ffffff; /* White */
+    --color-bg: #333333; /* Dark Gray */
+    --color-bg-sec: #444444; /* Darker Gray */
+}
+
+[data-theme="royalBlue"] {
+    --color-sec: #003399; /* Tomato */
+    --color-text: #ffffff; /* White */
+    --color-bg: #333333; /* Dark Gray */
+    --color-bg-sec: #444444; /* Darker Gray */
+}
